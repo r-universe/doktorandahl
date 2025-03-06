@@ -5,6 +5,9 @@
 [submodule "evinf"]
 	path = evinf
 	url = https://github.com/doktorandahl/evinf
+[submodule "pintervals"]
+	path = pintervals
+	url = https://github.com/cran/pintervals
 [submodule "uncertainUCDP"]
 	path = uncertainUCDP
 	url = https://github.com/doktorandahl/uncertainucdp
